@@ -4,6 +4,22 @@ Ropar Institute Portal is an all-in-one campus super app designed to simplify ac
 
 ---
 
+## Acknowledgement
+
+We sincerely thank the IIT Ropar faculty and hackathon organizers for providing us with the opportunity, guidance, and platform to develop this project. This initiative has helped us strengthen our technical, collaborative, and problem-solving skills while working on real-world campus challenges.
+
+We welcome feedback and suggestions to further improve the Ropar Institute Portal.
+
+---
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies
+3. Configure environment variables
+4. Run the server
+5. Open in browser
+
 ## Main Features
 
 Academics
@@ -91,4 +107,8 @@ DevOps and Deployment Engineer
 Managed hosting, deployment pipelines, and system reliability
 
 ---
+
+
+
+
 
