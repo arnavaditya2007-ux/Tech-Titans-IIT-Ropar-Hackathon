@@ -1,0 +1,94 @@
+# Ropar Institute Portal
+
+Ropar Institute Portal is an all-in-one campus super app designed to simplify academic life, campus services, and student collaboration at IIT Ropar. It aims to centralize essential student utilities into a single, efficient, and user-friendly digital platform.
+
+---
+
+## Main Features
+
+Academics
+Live timetable with real-time updates
+LMS Lite for assignments, grades, and submissions
+Attendance tracking and prediction
+GPA calculator and exam reminders
+Smart study planning tools
+
+Mess and Food
+Live mess menu with ratings
+Food waste tracking and donation support
+
+Communication
+Smart mail summarizer
+Important notices and deadline alerts
+
+Marketplace and Exchange
+Lost and found system
+Buy and sell marketplace
+Skill portfolio and mini freelancing hub
+
+Hostel and Services
+Roommate matching system
+Complaint and maintenance tracking
+Laundry and utility alerts
+
+Travel and Navigation
+Cab pooling and travel sharing
+Nearby places discovery
+Smart campus maps
+
+Community
+Clubs, forums, and group chats
+Events and crowd prediction
+Polls and engagement features
+
+Safety and Security
+Emergency SOS and safe walk
+Anonymous reporting system
+
+Smart Tools
+Event crowd estimation
+Equipment booking system
+Basic recommendation system
+
+---
+
+## Project Objectives
+
+To improve student productivity and engagement
+To reduce administrative delays
+To enhance transparency in campus services
+To promote collaboration and sustainability
+To provide a scalable digital campus solution
+
+---
+
+## Technology Overview
+
+Frontend: Web and mobile responsive interface
+Backend: REST API-based modular architecture
+Database: Secure and optimized data storage
+Authentication: Role-based access system
+Hosting: Cloud-ready infrastructure
+
+---
+
+## Team
+
+Arnav Aditya
+Lead Developer and System Architect
+Handled backend design, system integration, and core logic
+
+Mahi Choudhary
+Database and API Engineer
+Developed data models, APIs, and optimized performance
+
+Harshita Soni
+Feature Developer and Testing Lead
+Implemented key features and ensured application quality
+
+Pratyush Thakur
+DevOps and Deployment Engineer
+Managed hosting, deployment pipelines, and system reliability
+
+---
+
